@@ -1,0 +1,83 @@
+{
+ "sub": "Feed de noviembre y diciembre. Siete publicaciones en la parrilla real de Instagram; toque cualquiera para abrirla.",
+ "descripcion": "Las siete publicaciones del feed de noviembre y diciembre, montadas en la parrilla real de Instagram, con su caption y su fecha sugerida.",
+ "highlights": [
+  [
+   "servicios",
+   "Servicios"
+  ],
+  [
+   "marcas",
+   "Marcas"
+  ],
+  [
+   "ubicacion",
+   "Ubicación"
+  ],
+  [
+   "contactos",
+   "Contactos"
+  ]
+ ],
+ "pie": "\n📍 Choloma, Cortés, Honduras\n📞 +504 2617-8899\n✉️ sales@agenciajehandal.hn\n🌐 agenciajehandal.com",
+ "posts": [
+  {
+   "clave": "servicios",
+   "titulo": "Nuestros Servicios",
+   "meta": "Carrusel · 5 láminas",
+   "dia": "4 dic",
+   "carrusel": [
+    "s0.jpg",
+    "s1.jpg",
+    "s2.jpg",
+    "s3.jpg",
+    "s4.jpg"
+   ],
+   "caption": "OUR SERVICES\nWe don't just sell the machine. Our own technicians install it and advise you on the equipment your line needs. Preventive maintenance with genuine parts, hands-on training, and garment construction analyzed operation by operation. 🛠️\n👉 Swipe to see all four. Which one do you need? Write to us."
+  },
+  {
+   "clave": "morgan",
+   "titulo": "REX PRO 50/70/90",
+   "meta": "Morgan Tecnica · video 1:48",
+   "dia": "2 dic",
+   "caption": "MORGAN TECNICA REX PRO 50/70/90\nAdvanced solutions for the cutting room, designed for superior performance. Up to 9 cm compressed ply, cutting speed up to 65 m/min and up to 50% energy savings compared with traditional technologies. ✂️\n👉 Ask about this machine. Write to us.",
+   "video": "video/morgan.mp4"
+  },
+  {
+   "clave": "t8722d",
+   "titulo": "NEXIO T-8722D",
+   "meta": "Brother · dos agujas",
+   "dia": "30 nov",
+   "caption": "BROTHER NEXIO T-8722D\nTwin needle direct drive lock stitcher with large hook and thread trimmer, built for heavy materials. 550 W AC servo motor, 3,000 sti/min, 7 mm stitch length, needle breakage prevention while reverse sewing and switchable needle or lower feed. 🧵\n👉 Ask about this machine. Write to us."
+  },
+  {
+   "clave": "lz2290",
+   "titulo": "LZ-2290C",
+   "meta": "Juki · zigzag",
+   "dia": "27 nov",
+   "caption": "JUKI LZ-2290C\nSemi-dry head, digital zigzag stitch sewing system with rotary active tension — an even stitch throughout. Motor-driven feed, multi-layered portion detection, up to 5,000 sti/min, 8 mm zigzag width and 20 standard patterns. 🌀\n👉 Ask about this machine. Write to us."
+  },
+  {
+   "clave": "repuestos",
+   "titulo": "Repuestos Genuinos",
+   "meta": "49 marcas · inventario",
+   "dia": "25 nov",
+   "caption": "REPUESTOS GENUINOS\nContamos con el inventario de repuestos genuinos más grande de Centroamérica, para todas las marcas que representamos, y con servicio técnico propio que mantiene su producción trabajando. 🔧\n👉 Habla con un asesor. ¡Te respondemos hoy!"
+  },
+  {
+   "clave": "w3500p",
+   "titulo": "W3500P / W3600P",
+   "meta": "Pegasus · collaretera DD",
+   "dia": "23 nov",
+   "caption": "PEGASUS W3500P / W3600P\nOil barrier type interlock stitch machines — flat bed (W3500P) and cylinder bed (W3600P). Fully automatic, up to 6,000 sti/min, built for increased production efficiency, ease of operation and efficient maintenance. 20 models between both series. 🧵\n👉 Ask about a model. Write to us."
+  },
+  {
+   "clave": "lanzw",
+   "titulo": "Lanzamiento web",
+   "meta": "Video · 34 s",
+   "dia": "20 nov",
+   "caption": "NUEVO SITIO WEB\nYa está en línea agenciajehandal.com: todo el equipo industrial de costura, corte y acabado, con la ficha técnica de cada máquina, nuestros servicios y los datos de contacto a un clic. 💻\n👉 Ingresa y conócelo: agenciajehandal.com",
+   "video": "video/lanzamiento-web.mp4"
+  }
+ ]
+}
